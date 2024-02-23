@@ -1,0 +1,32 @@
+{
+  "name": "sumit-birthday",
+  "version": "1.0.3",
+  "description": "npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aditya Mishra",
+  "license": "ISC",
+  "dependencies": {
+    "boxen": "^5.0.0",
+    "chalk": "^4.1.0",
+    "inquirer": "^8.0.0"
+  },
+  "bin": {
+    "vaibhav-up": "index.js"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2003Aditya"
+  },
+  "keywords": [
+    "npm",
+    "package"
+  ],
+  "bugs": {
+    "url": "https://github.com/2003Aditya"
+  },
+  "homepage": "https://github.com/2003Aditya"
+}
